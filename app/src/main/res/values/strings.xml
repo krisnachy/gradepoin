@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Presensi</string>
+    <string name="absen">Absen</string>
+    <string name="tugas">Tugas</string>
+    <string name="nilai_uts">Nilai UTS</string>
+    <string name="nilai_uas">Nilai UAS</string>
+    <string name="submit">SUBMIT</string>
+    <string name="nilai">Nilai</string>
+    <string name="grade">Grade</string>
+</resources>
